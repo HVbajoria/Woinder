@@ -34,13 +34,34 @@ It will allow the applicants to get a greater exposure and access to all kinds o
 ## Instructions for running the app : 🗒️
 
 - Install MongoDB, Node JS in your system.
-- In CMD type in 'sudo service mongod start' to start the server. 
-- Open a new terminal and type in 'cd backend'.
-- Install all the dependencies by typing 'npm install'
-- Type 'npm start' to run the server.
-- In a new terminal type 'cd frontend'.
-- Install all the dependencies by typing 'npm install'
-- Type 'npm start' to run the frontend server.
+- Start the server by typing into the command prompt:
+```bash
+sudo service mongod start
+```
+- Open a new terminal and type in:
+```bash
+cd backend
+```
+- Install all the dependencies by typing:
+```bash
+npm install
+```
+- Run the server by typing
+```bash
+npm start
+```
+- In a new terminal type:
+```bash
+cd frontend
+```
+- Install all the dependencies by typing:
+```bash
+npm install
+```
+- To run the frontend server type:
+```bash
+npm start
+```
 - Your application will run at 'http://localhost:3000/' . In your system web browser type in 'http://localhost:3000/' to use the application.
 
 ### This application will be a revolution in the industries, redefining the way hiring process is executed making it hassle-free and allowing only the deserving candidates get hired. 🤩
