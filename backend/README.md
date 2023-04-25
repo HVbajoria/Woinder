@@ -13,5 +13,5 @@
 ### This application will be a revolution in the industries, redefining the way hiring process is executed making it hassle-free and allowing only the deserving candidates get hired.
 
 
-## Demo Video : [Click Here](https://www.youtube.com/watch?v=rVSr1RKnQhM)
+## Demo Video : [Click Here](https://youtu.be/ODt6ibZAHU8)
 
